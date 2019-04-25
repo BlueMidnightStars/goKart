@@ -1,0 +1,135 @@
+<!--index.wxml-->
+<view class="page-container">
+  <view class="header-container">
+    <view class="nav-section">
+      <view class="nav-item active">
+        <view class="nav-item-title active">新闻报道</view>
+      </view>
+      <view class="nav-item">
+        <view class="nav-item-title">赛照培训</view>
+      </view>
+      <view class="nav-item">
+        <view class="nav-item-title">赛车教学</view>
+      </view>
+    </view>
+  </view>
+  <view class="essay-container">
+    <view class="essay-section">
+      <view class="essay-item">
+        <view class="essay-item-title">
+          四月第一周卡丁快报
+        </view>
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供比赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+          </view>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
+        </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            <view class="essay-item-footer-original">
+              原创
+            </view>
+            卡丁车之家
+          </view>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
+        </view>
+      </view>
+      <view class="essay-item">
+        <view class="essay-item-title">
+          四月第一周卡丁快报
+        </view>
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供比赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+          </view>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
+        </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            <view class="essay-item-footer-original">
+              原创
+            </view>
+            卡丁车之家
+          </view>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
+        </view>
+      </view>
+      <view class="essay-item">
+        <view class="essay-item-title">
+          四月第一周卡丁快报
+        </view>
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供比赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+          </view>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
+        </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            <view class="essay-item-footer-original">
+              原创
+            </view>
+            卡丁车之家
+          </view>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
+        </view>
+      </view>
+      <view class="essay-item">
+        <view class="essay-item-title">
+          四月第一周卡丁快报
+        </view>
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供比赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+          </view>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
+        </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            <view class="essay-item-footer-original">
+              原创
+            </view>
+            卡丁车之家
+          </view>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
+        </view>
+      </view>
+      <view class="essay-item">
+        <view class="essay-item-title">
+          四月第一周卡丁快报
+        </view>
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供…赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+          </view>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
+        </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            卡丁车之家
+          </view>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
+        </view>
+      </view>
+    </view>
+    <view class="body-essay-end">
+      没有更多了
+    </view>
+  </view>
+</view>
+<view class="share-container">
+    <view class="share-section">
+        <view class="share-title">分享至</view>
+        <view class="share-list">
+            <view class="share-item">
+                <image class="share-item-map"  src='./image/icon1.png'></image>
+                <view class="share-item-title">微信朋友圈</view>
+            </view>
+            <view class="share-item">
+                <image class="share-item-map"  src='./image/icon2.png'></image>
+                <view class="share-item-title">微信好友</view>
+            </view>
+        </view>
+    </view>
+</view>

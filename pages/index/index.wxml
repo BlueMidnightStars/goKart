@@ -1,7 +1,7 @@
 <!--index.wxml-->
-<view class="container">
+<view class="page-container">
   <view class="header-container">
-    <view class="header-image-container">
+    <view class="map-section">
       <swiper
         indicator-dots="{{indicatorDots}}"
         autoplay="{{autoplay}}"
@@ -15,65 +15,62 @@
         </block>
       </swiper>
     </view>
-    <view class="header-link-list">
-      <view class="link-list-item">
-        <image class="link-item-image" src="./image/icon_news copy.png"></image>
-        <view class="link-item-title">新闻</view>
+    <view class="nav-section">
+      <view class="nav-item">
+        <image class="nav-item-image" src="./image/icon_news copy.png"></image>
+        <view class="nav-item-title">新闻</view>
       </view>
-      <view class="link-list-item">
-        <image class="link-item-image" src="./image/icon_training copy.png"></image>
-        <view class="link-item-title">培训</view>
+      <view class="nav-item">
+        <image class="nav-item-image" src="./image/icon_training copy.png"></image>
+        <view class="nav-item-title">培训</view>
       </view>
-      <view class="link-list-item">
-        <image class="link-item-image" src="./image/icon_calendar copy.png"></image>
-        <view class="link-item-title">赛例</view>
+      <view class="nav-item">
+        <image class="nav-item-image" src="./image/icon_calendar copy.png"></image>
+        <view class="nav-item-title">赛例</view>
       </view>
-      <view class="link-list-item">
-        <image class="link-item-image" src="./image/icon_shop copy.png"></image>
-        <view class="link-item-title">商城</view>
+      <view class="nav-item">
+        <image class="nav-item-image" src="./image/icon_shop copy.png"></image>
+        <view class="nav-item-title">商城</view>
       </view>
     </view>
   </view>
-  <view class="body-container">
-    <view class="body-essay-list">
-      <view class="essay-list-item">
-        <view class="essay-list-item-title">
+  <view class="essay-container">
+    <view class="essay-section">
+      <view class="essay-item">
+        <view class="essay-item-title">
           四月第一周卡丁快报
         </view>
-        <view class="essay-list-item-base">
-          <view class="essay-list-item-base-text">
-            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供…赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
+            极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供比赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
           </view>
-          <image class="essay-list-item-base-image" src='./image/Bitmap.png'></image>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
         </view>
-        <view class="essay-list-item-footer">
-          <view class="essay-list-item-footer-title">
-            <view class="essay-list-item-footer-original">
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
+            <view class="essay-item-footer-original">
               原创
             </view>
             卡丁车之家
           </view>
-          <image class="essay-list-item-footer-share" src='./image/icon_share.png'></image>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
         </view>
       </view>
-      <view class="essay-list-item">
-        <view class="essay-list-item-title">
+      <view class="essay-item">
+        <view class="essay-item-title">
           四月第一周卡丁快报
         </view>
-        <view class="essay-list-item-base">
-          <view class="essay-list-item-base-text">
+        <view class="essay-item-base">
+          <view class="essay-item-base-text">
             极赛作为深圳的**A级赛，具备承种国、国际性赛赛事资格，是国较为重要的专丁及青少训。在提供…赛及专赛训的同时，提供种赛乐租用、汽试租用等服务，是广东、港澳广大专手及余的理想赛乐园 。
           </view>
-          <image class="essay-list-item-base-image" src='./image/Bitmap.png'></image>
+          <image class="essay-item-base-image" src='./image/Bitmap.png'></image>
         </view>
-        <view class="essay-list-item-footer">
-          <view class="essay-list-item-footer-title">
-            <view class="essay-list-item-footer-original">
-              原创
-            </view>
+        <view class="essay-item-footer">
+          <view class="essay-item-footer-title">
             卡丁车之家
           </view>
-          <image class="essay-list-item-footer-share" src='./image/icon_share.png'></image>
+          <image class="essay-item-footer-share" src='./image/icon_share.png'></image>
         </view>
       </view>
     </view>
