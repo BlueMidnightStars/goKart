@@ -46,7 +46,7 @@ page{
   font-weight: 500;
   margin-bottom: 19rpx;
 }
-.article-item-base{
+.article-item-content{
   display: flex;
   justify-content: space-between;
   width: 690rpx;
@@ -63,24 +63,24 @@ page{
   overflow: hidden;
   text-overflow:ellipsis;
 }
-.article-item-base-image{
+.article-item-description-image{
   display: inline-block;
   width: 240rpx;
   height: 160rpx;
 }
-.article-item-footer{
+.article-item-information{
   width: 690rpx;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-top: 30rpx;
 }
-.article-item-footer-title{
+.article-item-text{
   font-size: 26rpx;
   color: #666;
 
 }
-.article-item-footer-tag{
+.article-item-tag{
   width: 70rpx;
   height: 35rpx;
   border: 1px solid #FF9600;
@@ -91,7 +91,7 @@ page{
   margin-right: 8px;
   display: inline-block;
 }
-.article-item-footer-share{
+.article-item-share{
   width: 26rpx;
   height: 26rpx;
 }

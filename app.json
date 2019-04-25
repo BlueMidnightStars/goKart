@@ -1,8 +1,8 @@
 {
   "pages":[
+    "pages/article_item/article_item",
+    "pages/article_list/article_list",
     "pages/index/index",
-    "pages/essay_list/essay_list",
-    
     "pages/logs/logs"
   ],
   "window":{
