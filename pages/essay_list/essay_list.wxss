@@ -3,29 +3,28 @@
     background-color: #fff;
     display: flex;
 }
-.nav-item{
+.nav-item-title{
     margin: 0 28rpx; 
     font-size: 34rpx;
     line-height: 50rpx;
     font-weight: 300;
 }
-.nav-item .active{
+.nav-section .active{
     font-weight: 700;
 }
-
-.essay-container{
+.article-container{
 background-color: #f4f4f4;
 }
-.essay-section{
+.article-section{
 padding-top: 6rpx;
 }
-.essay-item{
+.article-item{
 width: 100%;
 background-color: #fff;
 margin-bottom: 16rpx;
 padding: 19rpx 30rpx;
 }
-.essay-item-title{
+.article-item-title{
 width: 690rpx;
 display: block;
 overflow: hidden;
@@ -36,12 +35,12 @@ color: #333;
 font-weight: 500;
 margin-bottom: 19rpx;
 }
-.essay-item-base{
+.article-item-base{
 display: flex;
 justify-content: space-between;
 width: 690rpx;
 }
-.essay-item-base-text{
+.article-item-description{
 width: 420rpx;
 font-size: 28rpx;
 color: #666;
@@ -53,24 +52,24 @@ word-break: break-all;
 overflow: hidden;
 text-overflow:ellipsis;
 }
-.essay-item-base-image{
+.article-item-base-image{
 display: inline-block;
 width: 240rpx;
 height: 160rpx;
 }
-.essay-item-footer{
+.article-item-footer{
 width: 690rpx;
 display: flex;
 justify-content: space-between;
 align-items: center;
 padding-top: 30rpx;
 }
-.essay-item-footer-title{
+.article-item-footer-title{
 font-size: 26rpx;
 color: #666;
 
 }
-.essay-item-footer-original{
+.article-item-footer-tag{
 width: 70rpx;
 height: 35rpx;
 border: 1px solid #FF9600;
@@ -81,11 +80,11 @@ line-height: 35rpx;
 margin-right: 8px;
 display: inline-block;
 }
-.essay-item-footer-share{
+.article-item-footer-share{
 width: 26rpx;
 height: 26rpx;
 }
-.body-essay-end{
+.body-article-end{
 font-size: 22rpx;
 color: #666;
 text-align: center;

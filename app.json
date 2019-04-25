@@ -1,7 +1,8 @@
 {
   "pages":[
-    "pages/essay_list/essay_list",
     "pages/index/index",
+    "pages/essay_list/essay_list",
+    
     "pages/logs/logs"
   ],
   "window":{
